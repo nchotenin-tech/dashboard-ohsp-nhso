@@ -10,4 +10,4 @@ Dashboard รายได้จากบริการทันตกรรม 
 
 ดู Dashboard: https://nchotenin-tech.github.io/dashboard-ohsp-nhso/
 
-ที่มา: รายงาน PPFS-SUM_PAID ของ สปสช.; สังกัด รพ.สต. จากไฟล์ สังกัด_2569
+ที่มา: รายงาน PPFS-SUM_PAID ของ สปสช. จากระบบ MIS PPFS 2569 สปสช. เขต 7 ขอนแก่น (https://khonkaen2.nhso.go.th/mis/ppfs2569/index.php); สังกัด รพ.สต. จากไฟล์ สังกัด_2569
